@@ -6,7 +6,7 @@ My name is Jeremy, and I am a self-taught programmer learning HTML, CSS, but mor
 - 🌱 I’m currently learning Python and data structures. Customtkinter, tkinter, PyQt5 and PyQt6
 - 🏗️ I recently built a tic-tac-toe game using GDScript from the game engine Godot. You can check it out [here](https://kyodaina.itch.io/tictactoegb)
 - 👯 I’m looking to collaborate on my social media content [here](https://www.instagram.com/k.e.seifert/#)
-          - Send me ideas at wearethefuture48@gmail.com
+  - Send me ideas at wearethefuture48@gmail.com
 
 <!--
 **kyodaii/kyodaii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
