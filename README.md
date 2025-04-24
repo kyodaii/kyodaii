@@ -16,7 +16,7 @@
 - Documentation is 80% of the solution to your problem
 _________________________________________
 
-<h2 align="left">Currently I'm using:</h2>
+<h1 align="left">👨‍💻 Active Stack:</h1>
 
 ###
 
