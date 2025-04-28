@@ -9,7 +9,7 @@
 <h1 align="left"></h1>
 
 - 🔭 I’m currently working on a desktop application for plumbing and hvac contractors.
-- 🌱 I’m currently learning Python and data structures. Customtkinter, tkinter, PyQt5 and PyQt6
+- 🌱 I’m currently learning Python, Django and data structures. Bootstrap, Customtkinter, tkinter, PyQt5 and PyQt6
 - 🏗️ I recently built a tic-tac-toe game using GDScript from the game engine Godot. You can check it out [here](https://kyodaina.itch.io/tictactoegb)
 - 👯 I’m looking to collaborate on my social media content [here](https://www.instagram.com/k.e.seifert/#)
   - Send me ideas at wearethefuture48@gmail.com
