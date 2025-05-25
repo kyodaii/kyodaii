@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jeremy, and I am a self-taught programmer focusing on Python andweb development!</p>
+<p align="left">My name is Jeremy, and I am a self-taught programmer focusing on Python and web development!</p>
 
 ###
 
