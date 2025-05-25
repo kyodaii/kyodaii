@@ -2,14 +2,14 @@
 
 ###
 
-<p align="left">My name is Jeremy, and I am a self-taught programmer learning Python and C++!</p>
+<p align="left">My name is Jeremy, and I am a self-taught programmer focusing on Python andweb development!</p>
 
 ###
 
 <h1 align="left"></h1>
 
 - 🔭 I’m currently working on a desktop application for plumbing and hvac contractors.
-- 🌱 I’m currently learning Python, Django and data structures. Bootstrap, Customtkinter, tkinter, PyQt5 and PyQt6
+- 🌱 I’m currently learning Python, html5, Javascript and CSS 
 - 🏗️ I recently built a tic-tac-toe game using GDScript from the game engine Godot. You can check it out [here](https://kyodaina.itch.io/tictactoegb)
 - Documentation is 80% of the solution to your problem
 _________________________________________
